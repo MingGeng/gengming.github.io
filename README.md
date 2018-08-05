@@ -42,10 +42,6 @@ Resume
     熟悉python, go等语言开发;
 
     
-
-学习主要途径:
-
-     imooc.com  /  shiyanlou.com   /  offical website and Books
      
 
 ## 本人是生物科学转行的, 对自学能力比较自信,热爱互联网技术革新, 提高团队开发/工作效率,做推进社会进步等有意义的技术推广和实践!
