@@ -1,5 +1,18 @@
-# minggeng.github.io
-Resume
+# 技能树list
+
+## 开发相关技能:
+工作中涉及:
+    开发框架:
+        Spring + SpringMVC + MyBatis + AngularJS 架构
+        Spring + Struts2 + Hibernate + JSP 架构
+        SoringBoot + MyBatis + VueJS 前后端分离架构
+    数据库:
+        MySQL, Oracle, PostgreSQL
+    中间件:
+        Zookeeper
+
+
+## 运维 & DevOps 相关技能:
 
 工作中涉及:
 
