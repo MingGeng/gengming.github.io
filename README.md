@@ -26,6 +26,8 @@
     知识库  confluence, alfresco, WCP; 
 
     企业内部开源IM mattermost, rocketChat; 
+    
+    PXC 集群部署;
 
     数据库版本控制工具 Flywaydb;
 
@@ -36,6 +38,7 @@
     熟悉saltstack, ansible等配置管理工具;
 
     熟悉常用开源软件,数据库的配置与运维; 
+   
 
 业余研究涉及:
 
