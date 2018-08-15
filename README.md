@@ -39,12 +39,14 @@
     gitflow 开发流程团队推广;
 
     GIT托管服务器GitLab 安装部署维护;
+    
+    GitBook 应用调研;
 
     知识库  confluence, alfresco, WCP; 
 
     企业内部开源IM mattermost, rocketChat; 
     
-    PXC 集群部署;
+    MySQL PXC集群 Docker化部署;
 
     数据库版本控制工具 Flywaydb;
 
